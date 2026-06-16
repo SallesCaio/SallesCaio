@@ -42,6 +42,16 @@
 <br>
 
 <div align="center">
+  <h3>Ferramentas & IDEs</h3>
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+</div>
+
+<br>
+
+<div align="center">
   <h3>ERP & Low-Code</h3>
   <img width="40" src="https://img.shields.io/badge/AdvPL-000000?style=flat-square&logo=totvs&logoColor=white" />
   <img width="40" src="https://img.shields.io/badge/Protheus-000000?style=flat-square&logo=totvs&logoColor=white" />
