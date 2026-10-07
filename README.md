@@ -7,34 +7,26 @@
     <br>
 </samp>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Iosevka&size=30&pause=1000&color=00C853&center=true&width=900&lines=Bem-Vindo(a)!;Me+chamo+Caio+Salles%2C;Desenvolvedor+Full-Stack%2C+AdvPL+%7C+Python+%7C+Cloud%2C;conhe%C3%A7a+mais+sobre+abaixo%3A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Iosevka&size=30&pause=1000&color=00C853&center=true&width=900&lines=Bem-Vindo(a)!;Me+chamo+Caio+Salles%2C;Back-end+%7C+Cloud+%26+DevOps;AdvPL+%7C+Python+%7C+Protheus+TOTVS;conhe%C3%A7a+mais+sobre+abaixo%3A)](https://git.io/typing-svg)
 
 </div>
-
-<div align="center">
-  <h3>Front-end</h3>
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
-</div>
-
-<br>
 
 <div align="center">
   <h3>Back-end</h3>
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+  <img width="40" src="https://img.shields.io/badge/REST%20API-005571?style=flat-square" />
+  <img width="40" src="https://img.shields.io/badge/SOAP-6DB33F?style=flat-square" />
 </div>
 
 <br>
 
 <div align="center">
-  <h3>Cloud & DevOps</h3>
+  <h3>Cloud &amp; DevOps</h3>
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" />
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
 </div>
@@ -42,27 +34,40 @@
 <br>
 
 <div align="center">
-  <h3>Ferramentas & IDEs</h3>
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
-</div>
-
-<br>
-
-<div align="center">
-  <h3>ERP & Low-Code</h3>
+  <h3>ERP &amp; Low-Code</h3>
   <img width="40" src="https://img.shields.io/badge/AdvPL-000000?style=flat-square&logo=totvs&logoColor=white" />
   <img width="40" src="https://img.shields.io/badge/Protheus-000000?style=flat-square&logo=totvs&logoColor=white" />
   <img width="40" src="https://img.shields.io/badge/Fluig-000000?style=flat-square&logo=totvs&logoColor=white" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" />
 </div>
 
 <br>
 
 <div align="center">
-  <h3>Formação & Certificações</h3>
+  <h3>Ferramentas &amp; IDEs</h3>
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+</div>
+
+<br>
+
+<div align="center">
+  <h3>Processos de TI &amp; Back-office</h3>
+  <p>
+    <img src="https://img.shields.io/badge/GMUD%20%2F%20Gestão%20de%20Mudanças-1a3c6e?style=flat-square" />
+    <img src="https://img.shields.io/badge/Reuniões%20de%20Handover-1a3c6e?style=flat-square" />
+    <img src="https://img.shields.io/badge/Sustentação%20de%20Chamados-1a3c6e?style=flat-square" />
+    <br>
+    <img src="https://img.shields.io/badge/Homologação%20de%20Melhorias-4a6fa5?style=flat-square" />
+    <img src="https://img.shields.io/badge/Validação%20de%20Integrações-4a6fa5?style=flat-square" />
+    <img src="https://img.shields.io/badge/Análise%20SQL-4a6fa5?style=flat-square" />
+  </p>
+</div>
+
+<br>
+
+<div align="center">
+  <h3>Formação &amp; Certificações</h3>
   <p>
     <img src="https://img.shields.io/badge/Tecnólogo%20em%20Sistemas%20para%20Internet-UNISUAM-blue?style=for-the-badge" />
     <br><br>
@@ -74,27 +79,31 @@
 
 <div align="center">
   <h3>Projetos em Destaque</h3>
-  <br>
-  <table>
-    <tr>
-      <td width="33%" align="center">
-        <b>🤖 FinBot</b><br>
-        Gestão Financeira via Telegram<br>
-        <a href="https://github.com/SallesCaio/financeiro-bot">Repo</a>
-      </td>
-      <td width="33%" align="center">
-        <b>📞 Telecall</b><br>
-        Sistema de Gerenciamento<br>
-        <a href="https://github.com/SallesCaio/Projeto-Telecall">Repo</a>
-      </td>
-      <td width="33%" align="center">
-        <b>💼 ZXM010</b><br>
-        Módulo Protheus MVC<br>
-        <a href="https://github.com/SallesCaio/AdvPL-Fluig">Repo</a>
-      </td>
-    </tr>
-  </table>
 </div>
+
+### byRaiMakes — E-commerce `Back-end · Cloud`
+> Plataforma de e-commerce **em produção** ([byraimakes.com.br](https://byraimakes.com.br)), com catálogo, carrinho, checkout via WhatsApp, painel administrativo, estoque, caixa, pedidos, clientes, banners e dashboard gerencial. Back-end em **Firebase** (Firestore, Auth, Storage, Cloud Functions) e deploy na **Vercel**.
+
+- **Consolidado:** migração seletiva entre versões, confirmação de venda com transação anti-duplicidade, estorno com data original, correção de regras de Storage (403) e datas Firestore (NG02100), métricas e painel 7D/30D/MÊS, Vercel Analytics, domínio próprio e SEO.
+- **Próximos passos:** histórico de caixa, gestão de pedidos/clientes, comparativos entre períodos, observabilidade (Sentry), CI/CD, testes automatizados (Jest/Cypress), PWA e app mobile.
+
+`Firebase` · `Vercel` · `Ionic/Angular` · [Raimake--v2](https://github.com/SallesCaio/Raimake--v2)
+
+### AdvPL-Fluig / ZXM010 — Customização TOTVS Protheus `AdvPL · ERP`
+> Módulo **MVC Modelo 3** (cabeçalho + itens) para solicitação de compras no **Protheus**, com abas, validações de negócio e dicionário (SX3) configurado. Integrações **REST** genéricas e workflow de aprovação via **SOAP** no **TOTVS Fluig**.
+
+- **Consolidado:** Controller MVC com MenuDef, Modelo 3 (ZXM/ZXN), validações PRE/POS, legenda e validação de fornecedor, módulo ViaCEP reutilizável e camada de integração REST/SOAP.
+- **Próximos passos:** integração Mercado Livre (OAuth2), dashboard ZXM010DSH, ViaCEP na tela de fornecedor e callback de aprovação do Fluig.
+
+`AdvPL/TL++` · `Protheus` · `REST` · `SOAP` · [AdvPL-Fluig](https://github.com/SallesCaio/AdvPL-Fluig)
+
+### 🤖 FinBot — Bot de Gestão Financeira
+> Bot de finanças pessoais via **Telegram + Google Sheets**, em produção 24/7 e multi-usuário. Lançamentos guiados/rápidos, faturas de cartão, parcelamentos, assinaturas, relatórios e lista de compras.
+
+- **Consolidado:** otimização de memória (V6, ~60–70% menos consumo) e deploy contínuo.
+- **Próximos passos:** Render Worker, rate limiting, notificações semanais e export em PDF.
+
+`Python` · `Telegram` · `Google Sheets API` · [financeiro-bot](https://github.com/SallesCaio/financeiro-bot)
 
 <br>
 
