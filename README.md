@@ -75,6 +75,9 @@
     <img src="https://img.shields.io/badge/Firebase%2010-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
     <img src="https://img.shields.io/badge/RxJS%207-B7178C?style=flat-square&logo=reactivex&logoColor=white" />
     <br>
+    <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+    <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
     <img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white" />
     <img src="https://img.shields.io/badge/Karma%20%2B%20Jasmine-13C100?style=flat-square&logo=jasmine&logoColor=white" />
