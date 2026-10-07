@@ -67,6 +67,23 @@
 <br>
 
 <div align="center">
+  <h3>Frameworks que costumo utilizar</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Angular%2017-DD0031?style=flat-square&logo=angular&logoColor=white" />
+    <img src="https://img.shields.io/badge/Ionic%208-3880FF?style=flat-square&logo=ionic&logoColor=white" />
+    <img src="https://img.shields.io/badge/Capacitor%206-53B4DF?style=flat-square&logo=capacitor&logoColor=white" />
+    <img src="https://img.shields.io/badge/Firebase%2010-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+    <img src="https://img.shields.io/badge/RxJS%207-B7178C?style=flat-square&logo=reactivex&logoColor=white" />
+    <br>
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white" />
+    <img src="https://img.shields.io/badge/Karma%20%2B%20Jasmine-13C100?style=flat-square&logo=jasmine&logoColor=white" />
+  </p>
+</div>
+
+<br>
+
+<div align="center">
   <h3>Formação &amp; Certificações</h3>
   <p>
     <img src="https://img.shields.io/badge/Tecnólogo%20em%20Sistemas%20para%20Internet-UNISUAM-blue?style=for-the-badge" />
